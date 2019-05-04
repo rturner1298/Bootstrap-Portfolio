@@ -1,0 +1,21 @@
+#aboutMe{
+ color: teal;
+}
+
+#navTitle{
+    background: teal;
+    color: white;
+}
+
+#rightMenu{
+    float: right;
+}
+
+#selfie{
+    width: 150px; 
+    height: 200px; 
+    padding-right: 15px;
+}
+#contactInfo{
+    color: teal;
+}
