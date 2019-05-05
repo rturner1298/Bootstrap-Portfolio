@@ -1,0 +1,28 @@
+
+
+#img1{
+    transform: rotate(90deg);
+  
+    /* padding-right: 1px;
+    padding-top: 90px;
+    margin-right: 5px; */
+
+  }
+
+  #img2{
+    transform: rotate(90deg);
+    /* padding-right: 5px;
+    padding-top: 90px;
+    padding-bottom: 5px;
+    margin-left: 1px; */
+
+  }
+  #img3{
+    
+    transform: rotate(90deg);
+    /* padding-right: 30px;
+    padding-top: 150px;
+    margin-left: 15px; */
+    
+  }
+  
